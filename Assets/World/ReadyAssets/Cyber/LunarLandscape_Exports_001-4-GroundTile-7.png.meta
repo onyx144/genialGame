@@ -1,0 +1,1693 @@
+fileFormatVersion: 2
+guid: e6fce5f2a48189b4393327914b0ce529
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2822408873847688202
+    second: LunarLandscape_Exports_001-4-GroundTile-7_0
+  - first:
+      213: 8616856365996046923
+    second: LunarLandscape_Exports_001-4-GroundTile-7_1
+  - first:
+      213: -7438256740326421063
+    second: LunarLandscape_Exports_001-4-GroundTile-7_2
+  - first:
+      213: 2486618794923351208
+    second: LunarLandscape_Exports_001-4-GroundTile-7_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c0a90cae53b2720800000000000000
+      internalID: 2822408873847688202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4af1c7f539359770800000000000000
+      internalID: 8616856365996046923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd40bc77e006c890800000000000000
+      internalID: -7438256740326421063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac573b8e9e328220800000000000000
+      internalID: 2486618794923351208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77af59e3618f90245af7e7bf7548686b
+      internalID: -181040261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7962b0c1020ca14f9731314d5ae10ef
+      internalID: 1541463308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca22ffbb315118046a94fe6af5678dc1
+      internalID: 974562526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e36e858e2b67342b9f6c42e51b1546
+      internalID: 1290801089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2417909a3a37d9d4492e93d736c566b4
+      internalID: 27467294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11deefe1143e1d04aba1e02a4c83416e
+      internalID: -1453215718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37a7ca159b627943b91a6ad9e736cfd
+      internalID: -1461818239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147ffbcef30d1914182f0b122d87030d
+      internalID: 1551485469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f82c51241059ae4a8988d22016bcf85
+      internalID: -978645863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_13
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590a730054c0064da217846d08a864e
+      internalID: 7767392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ecf3be50f0b4d47b2ac8725bfde72e
+      internalID: -1874228709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_15
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e71a2d10aef040a42b04fba4c497c
+      internalID: -926058428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_16
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1be213e86a8a94db0c3d3dfddb62fa
+      internalID: -2034250520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_17
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 161
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20298746047f94c4e96254e255980af0
+      internalID: 981817545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a096012aecf1df6448120917d34092df
+      internalID: 569810245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab43e267b257bb948bfe695ad8f12619
+      internalID: -488639852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9038569a138d947b9e90c1ea9240e4
+      internalID: 359119621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ef21bc0c54a55429d5994a83ec829a
+      internalID: 82492984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a3ffa6a1bb84f47bd29915c65894df
+      internalID: 1968308640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0afb3e8fd6dd3144bda6c5b886c40d0
+      internalID: -1200059841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7880716a28c9f4f893f218214480bc
+      internalID: -268786976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f176f29fb1d0a9448f1eaef27a1ef54
+      internalID: 256521645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e6fa8ecffa5ec478f1961e41b4b059
+      internalID: 175310026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f8b77df76baa4fb7021a3fb633fa4
+      internalID: -1187848578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14b73833d60a14e8876989c327525a
+      internalID: -188804912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd39572e32955c641b3a73730cca57c8
+      internalID: 306357965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47ed3ca3a2fbf84b95053394eeaf8be
+      internalID: -1966084826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_31
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc02b0dddadfe5449820e8b571c5dfa4
+      internalID: -423555516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_32
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f91f399e355a4080e0b7d2d9fe3ea
+      internalID: -16666466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311d0a0d883c3574cb82c502af14f97d
+      internalID: 147437817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e25390ea950e49b96db2d55d27e9d
+      internalID: -786085615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_35
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac10661c48ad64cad4748fca8d0778
+      internalID: 1871741045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_36
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843bfb92c01f0a44ea767244a0ebab9e
+      internalID: 105686968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_37
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395405a5a52a8c4b97502f36b980aa7
+      internalID: -509403642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6ecb4f50024344a9ffd5d23a0d64c9
+      internalID: 420325485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462e3506780bd654db779f7927ea3b1b
+      internalID: 118990768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_40
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a89caa4e4f0249b62d5e29afc46c2
+      internalID: 1281146546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_41
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a207a7d6a6a442befd252084f6589
+      internalID: -2064356364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 97
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb95fcf57a4839459ebe231e1c7e2d6
+      internalID: -1054415562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c141f2b2ddf43f4d85883ee86346d66
+      internalID: 1832366319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8293a1530ace3a94cad1f43070c7a1d5
+      internalID: 1186493907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff925d6f0ddd784f90f2e0ef1afabb1
+      internalID: 936366215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4114171d610923141a9752f56fc57c86
+      internalID: -463493447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d47968ece7cb640b034a2dba8cedaa
+      internalID: -1505321362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bb17f9745bd4843b634fde0ac5b5ca
+      internalID: -118584469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab3f882b1ad2f843a246d1ba2ee1986
+      internalID: 1580525645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48bbdfe11d011648b8149b9c652510e
+      internalID: 1328120651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75659ee077bcad41989a4574c03f8a6
+      internalID: 622695418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_52
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac6ede13944b748b3d12de3573d5ae
+      internalID: 115528102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12393f675cadd74cbeaff75b4b13b83
+      internalID: -12403482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a152d8309a5b54a8e2527a70d60795
+      internalID: -1939398925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297fd5364c6920d4e852c613c5105662
+      internalID: -557327324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_56
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ec0e54ae969647a8074d852f0a159
+      internalID: -1753429876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d96b3be568a676419cb2521d2461e4c
+      internalID: 390222034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3491d9323cb8c24dbb5bd642b6c4a5c
+      internalID: -620991381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_59
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cb71e385013874795406716b8f27e6
+      internalID: 926058573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_60
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794b9205f1354844ebba14cacec58d5d
+      internalID: -1232027970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_61
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc75109f936434bba15d49e4f2e902
+      internalID: -139036988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_62
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b0eff649f39974fbf13b63234034f4
+      internalID: -1619087848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_63
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4158afb5e4d8bd4884330b61ed33b2c
+      internalID: -378408765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_64
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e430bc6a0d53524468215d61f935e191
+      internalID: -415841065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_65
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61064b4dafbd7d498b190b1523f1c63
+      internalID: -1514209631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_66
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c0ddcc8ed36d34d9a8641a4fca834c
+      internalID: -624881823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LunarLandscape_Exports_001-4-GroundTile-7_67
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 33
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0633d2507b6048bb100b36228a268
+      internalID: 505821980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f30e7891b04f3bf46b4bfd8e7534e9d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LunarLandscape_Exports_001-4-GroundTile-7_0: 2822408873847688202
+      LunarLandscape_Exports_001-4-GroundTile-7_1: 8616856365996046923
+      LunarLandscape_Exports_001-4-GroundTile-7_10: -1461818239
+      LunarLandscape_Exports_001-4-GroundTile-7_11: 1551485469
+      LunarLandscape_Exports_001-4-GroundTile-7_12: -978645863
+      LunarLandscape_Exports_001-4-GroundTile-7_13: 7767392
+      LunarLandscape_Exports_001-4-GroundTile-7_14: -1874228709
+      LunarLandscape_Exports_001-4-GroundTile-7_15: -926058428
+      LunarLandscape_Exports_001-4-GroundTile-7_16: -2034250520
+      LunarLandscape_Exports_001-4-GroundTile-7_17: 981817545
+      LunarLandscape_Exports_001-4-GroundTile-7_18: 569810245
+      LunarLandscape_Exports_001-4-GroundTile-7_19: -488639852
+      LunarLandscape_Exports_001-4-GroundTile-7_2: -7438256740326421063
+      LunarLandscape_Exports_001-4-GroundTile-7_20: 359119621
+      LunarLandscape_Exports_001-4-GroundTile-7_21: 82492984
+      LunarLandscape_Exports_001-4-GroundTile-7_22: 1968308640
+      LunarLandscape_Exports_001-4-GroundTile-7_23: -1200059841
+      LunarLandscape_Exports_001-4-GroundTile-7_24: -268786976
+      LunarLandscape_Exports_001-4-GroundTile-7_25: 256521645
+      LunarLandscape_Exports_001-4-GroundTile-7_26: 175310026
+      LunarLandscape_Exports_001-4-GroundTile-7_27: -1187848578
+      LunarLandscape_Exports_001-4-GroundTile-7_28: -188804912
+      LunarLandscape_Exports_001-4-GroundTile-7_29: 306357965
+      LunarLandscape_Exports_001-4-GroundTile-7_3: 2486618794923351208
+      LunarLandscape_Exports_001-4-GroundTile-7_30: -1966084826
+      LunarLandscape_Exports_001-4-GroundTile-7_31: -423555516
+      LunarLandscape_Exports_001-4-GroundTile-7_32: -16666466
+      LunarLandscape_Exports_001-4-GroundTile-7_33: 147437817
+      LunarLandscape_Exports_001-4-GroundTile-7_34: -786085615
+      LunarLandscape_Exports_001-4-GroundTile-7_35: 1871741045
+      LunarLandscape_Exports_001-4-GroundTile-7_36: 105686968
+      LunarLandscape_Exports_001-4-GroundTile-7_37: -509403642
+      LunarLandscape_Exports_001-4-GroundTile-7_38: 420325485
+      LunarLandscape_Exports_001-4-GroundTile-7_39: 118990768
+      LunarLandscape_Exports_001-4-GroundTile-7_4: -181040261
+      LunarLandscape_Exports_001-4-GroundTile-7_40: 1281146546
+      LunarLandscape_Exports_001-4-GroundTile-7_41: -2064356364
+      LunarLandscape_Exports_001-4-GroundTile-7_42: -1054415562
+      LunarLandscape_Exports_001-4-GroundTile-7_43: 1832366319
+      LunarLandscape_Exports_001-4-GroundTile-7_44: 1186493907
+      LunarLandscape_Exports_001-4-GroundTile-7_45: 936366215
+      LunarLandscape_Exports_001-4-GroundTile-7_46: -463493447
+      LunarLandscape_Exports_001-4-GroundTile-7_47: -1505321362
+      LunarLandscape_Exports_001-4-GroundTile-7_48: -118584469
+      LunarLandscape_Exports_001-4-GroundTile-7_49: 1580525645
+      LunarLandscape_Exports_001-4-GroundTile-7_5: 1541463308
+      LunarLandscape_Exports_001-4-GroundTile-7_50: 1328120651
+      LunarLandscape_Exports_001-4-GroundTile-7_51: 622695418
+      LunarLandscape_Exports_001-4-GroundTile-7_52: 115528102
+      LunarLandscape_Exports_001-4-GroundTile-7_53: -12403482
+      LunarLandscape_Exports_001-4-GroundTile-7_54: -1939398925
+      LunarLandscape_Exports_001-4-GroundTile-7_55: -557327324
+      LunarLandscape_Exports_001-4-GroundTile-7_56: -1753429876
+      LunarLandscape_Exports_001-4-GroundTile-7_57: 390222034
+      LunarLandscape_Exports_001-4-GroundTile-7_58: -620991381
+      LunarLandscape_Exports_001-4-GroundTile-7_59: 926058573
+      LunarLandscape_Exports_001-4-GroundTile-7_6: 974562526
+      LunarLandscape_Exports_001-4-GroundTile-7_60: -1232027970
+      LunarLandscape_Exports_001-4-GroundTile-7_61: -139036988
+      LunarLandscape_Exports_001-4-GroundTile-7_62: -1619087848
+      LunarLandscape_Exports_001-4-GroundTile-7_63: -378408765
+      LunarLandscape_Exports_001-4-GroundTile-7_64: -415841065
+      LunarLandscape_Exports_001-4-GroundTile-7_65: -1514209631
+      LunarLandscape_Exports_001-4-GroundTile-7_66: -624881823
+      LunarLandscape_Exports_001-4-GroundTile-7_67: 505821980
+      LunarLandscape_Exports_001-4-GroundTile-7_7: 1290801089
+      LunarLandscape_Exports_001-4-GroundTile-7_8: 27467294
+      LunarLandscape_Exports_001-4-GroundTile-7_9: -1453215718
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
